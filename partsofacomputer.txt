@@ -1,0 +1,76 @@
+<!doctype HTML>
+<html lang="en">
+	<head>
+		<title>Hardware Project</title>
+		<meta charset="UTF-8"/>
+		<link rel="stylesheet" type="text/css" href="hardware.css"/>
+	</head>
+	<body>
+<!-- Menu -->
+		<table>
+			<tr>
+				<th><a>Hardware Project</a></th>
+				<th><a>Parts of a Computer</a></th>
+				<th><a>References</a></th>
+			</tr>
+		</table>
+<!-- Second Page -->
+		<h1>Parts of a Computer</h1>
+		
+		<h2>Motherboard</h2>
+		<img alt="Motherboard" src=""/>
+		<p></p>
+						
+		<h2>Central Processing Unit</h2>
+		<img alt="CPU" src=""/>		
+		<p></p>
+						
+		<h2>Fan</h2>
+		<img alt="Fan" src=""/>
+		<p></p>
+		
+		<h2>Power Supply Unit</h2>
+		<img alt="Power Supply Unit" src=""/>
+		<p></p>
+						
+		<h2>Random Access Memory</h2>
+		<img alt="RAM" src=""/>
+		<p></p>
+						
+		<h2>Hard Drive</h2>
+		<img alt="Hard Drive" src=""/>
+		<p></p>
+						
+		<h2>Basic Input-Output System</h2>
+		<img alt="BIOS" src=""/>
+		<p></p>
+						
+		<h2>Video Card</h2>
+		<img alt="Video Card" src=""/>
+		<p></p>
+						
+		<h2>Sound Card</h2>
+		<img alt="Sound Card" src=""/>
+		<p></p>
+		
+		<h2>Network Card</h2>
+		<img alt="Network Card" src=""/>
+		<p></p>
+						
+		<h2>Read-Only Memory</h2>
+		<img alt="ROM" src=""/>
+		<p></p>
+						
+		<h2>Firewire connection</h2>
+		<img alt="Firewire" src=""/>
+		<p></p>
+						
+		<h2>Optical Drive</h2>
+		<img alt="Optical Drive" src=""/>
+		<p></p>
+						
+		<h2>Display Adapter</h2>
+		<img alt="Display Adapter" src=""/>
+		<p></p>
+	</body>
+</html>
