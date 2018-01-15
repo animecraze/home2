@@ -7,7 +7,7 @@
 	</head>
 	<body>
 <!-- Menu -->
-		<table>
+		<table style="width:100%">
 			<tr>
 				<th><a>Hardware Project</a></th>
 				<th><a>Parts of a Computer</a></th>
