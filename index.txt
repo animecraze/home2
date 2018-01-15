@@ -1,5 +1,5 @@
 <!doctype HTML>
-<html lang="eng">
+<html lang="en">
 	<head>
 		<title>Hardware Project</title>
 		<meta charset="UTF-8"/>
