@@ -53,7 +53,7 @@
 		<p></p>
 						
 		<h2>Random Access Memory</h2>
-		<img alt="RAM" src="IMG-0107.JPG"/>
+		<img alt="RAM" src=""/>
 		<p></p>
 						
 		<h2>Hard Drive</h2>
