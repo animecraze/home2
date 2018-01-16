@@ -17,6 +17,8 @@
 <!-- Second Page -->
 		<h1>Parts of a Computer</h1>
 		
+		<p> This is how our computer looked before we disassembled the computer. </p>
+                <img alt = "Picture of Computer Before Disassembled" src="IMG-0076.jpg/Hardware Photos"/>		
 		<h2>Motherboard</h2>
 		<img alt="Motherboard" src=""/>
 		<p></p>
