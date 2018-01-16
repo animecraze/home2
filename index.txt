@@ -23,14 +23,6 @@
 		<p>these pictures don't exist yet</p>
 		<img alt="Before we took the computer apart" src=""/>
 		<img alt="After we took the computer apart" src=""/>
-		<!-- Menu -->
-		<table>
-			<tr>
-				<th><a>Hardware Project</a></th>
-				<th><a>Parts of a Computer</a></th>
-				<th><a>References</a></th>
-			</tr>
-		</table>
 <!-- Second Page -->
 		<h1>Parts of a Computer</h1>
 		
